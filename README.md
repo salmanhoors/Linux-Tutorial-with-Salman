@@ -46,8 +46,7 @@ wget: Downloads files from the web.
 
 man: Displays the manual for a command.
 
-=============================================================================================
-
+===================================================================
 ADVANCED COMMANDS IN LINUX:
 awk: A powerful text processing language.
 
